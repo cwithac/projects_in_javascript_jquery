@@ -10,6 +10,19 @@ Technology
 - FancyBox 2.1.5
 ```
 
+1. Simple JavaScript Quiz
+2. jQuery Content Slider
+3. YouTube Search Engine
+4. FAQ Accordion Slider
+5. Ajax PHP Shoutbox
+6. Apple Style Thumbslider
+7. Create a jQuery Plugin
+8. jQuery Portfolio Gallery
+9. jQuery Mobile App
+10. Tic Tac Toe
+
 ![](https://i.imgur.com/PZdALfR.png)
+
 ![](https://i.imgur.com/hTZo6tw.png)
+
 ![](https://i.imgur.com/vnaXkBe.png)
