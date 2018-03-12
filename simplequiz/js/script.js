@@ -10,8 +10,10 @@ function submitAnswers() {
   event.preventDefault();
 
   for (let i = 1; i <= total; i++) {
+    document.getElementById('q' + i + 'm').style.display = 'none';
     if (eval('q' + i) == null || eval('q' + i) == '') {
       document.getElementById('q' + i + 'm').style.display = 'block';
+      return false;
     }
   }
 
