@@ -1,0 +1,32 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Brad Traversy (Cathleen Wright via Udemy)",
+        "url": "https://github.com/cwithac"
+    },
+    "maintainers": [
+        {
+            "name": "Cathleen Wright",
+            "email": "cwithac.webdev@gmail.com",
+            "url": "https://github.com/cwithac"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/cwithac/projects_in_javascript_jquery/jquery_plugin",
+    "docs": "https://github.com/cwithac/projects_in_javascript_jquery/jquery_plugin/README.md",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
