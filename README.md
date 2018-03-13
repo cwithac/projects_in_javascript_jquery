@@ -24,14 +24,14 @@ Technology
 9. jQuery Mobile App
 10. Tic Tac Toe
 
-![](https://i.imgur.com/PZdALfR.png)
+<img src="https://i.imgur.com/PZdALfR.png" width="500">
 
-![](https://i.imgur.com/hTZo6tw.png)
+<img src="https://i.imgur.com/hTZo6tw.png" width="500">
 
-![](https://i.imgur.com/vnaXkBe.png)
+<img src="https://i.imgur.com/vnaXkBe.png" width="500">
 
-![](https://i.imgur.com/G3GCZPx.png)
+<img src="https://i.imgur.com/G3GCZPx.png" width="500">
 
-![](https://i.imgur.com/Imu7BaY.png)
+<img src="https://i.imgur.com/Imu7BaY.png" width="500">
 
-![](https://i.imgur.com/OEcci4G.png)
+<img src="https://i.imgur.com/OEcci4G.png" width="500">
