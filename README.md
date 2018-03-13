@@ -10,7 +10,7 @@ Technology
 - FancyBox 2.1.5
 - PHP
 - AJAX
-- SQL
+- SQL (GET/POST)
 ```
 
 1. Simple JavaScript Quiz
@@ -33,3 +33,5 @@ Technology
 ![](https://i.imgur.com/G3GCZPx.png)
 
 ![](https://i.imgur.com/Imu7BaY.png)
+
+![](https://i.imgur.com/OEcci4G.png)
