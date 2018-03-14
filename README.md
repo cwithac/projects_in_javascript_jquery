@@ -5,7 +5,7 @@ _Modeled after 'Projects In JavaScript & JQuery' via Udemy._
 ```
 Technology
 - JavaScript
-- JQuery
+- JQuery, jQuery Mobile 1.4.3
 - YouTube API (GET)
 - FancyBox 2.1.5
 - PHP
@@ -39,3 +39,5 @@ Technology
 <img src="https://i.imgur.com/vw1OyjJ.png" width="500">
 
 <img src="https://i.imgur.com/KRd2ZzR.png" width="500">
+
+<img src="https://i.imgur.com/TWZBH3H.png" width="500">
